@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="btn_choose_path">Выбрать папку...</string>
+    <string name="app_name">J2ME Key Generator</string>
+    <string name="title_hint">Параметры ключей</string>
+    <string name="hint_password">Пароль (минимум 6 символов)</string>
+    <string name="hint_alias">Псевдоним</string>
+    <string name="btn_generate">Создать .ks и .cer</string>
+    
+    <!-- Сообщения для логов и уведомлений -->
+    <string name="msg_empty_fields">Пожалуйста, заполните все поля!</string>
+    <string name="msg_short_password">Пароль должен быть не менее 6 символов!</string>
+    <string name="msg_success">Файлы успешно созданы в корне памяти!</string>
+    <string name="msg_error">Ошибка генерации: </string>
+    <string name="msg_permission_denied">Нет разрешения на запись в память!</string>
+</resources>
